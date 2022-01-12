@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.dau{
+    margin-top: 83px;
+    text-align: center;
+  
+    
+}
+.dau img{
+    padding-bottom: 38px;
+    
+}
+hr{
+   margin-left: 730px;
+
+}
+p{
+    margin-top: 35px;
+    text-align: center;
+    font-family: 'Myriad Pro';
+    font-size: 18pt;
+    margin-bottom: 57px;
+}
+.giua{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 115px 77px 115px;
+
+}
+.cuoi{
+    background-color: #0c2b30;
+    width: 100%;
+    height: 150px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.cuoi .chu{
+    padding-top: 25px;
+    font-size: 24px;
+
+}
+.chuu{
+    color: #62727e;
+    font-family: 'Myriad Pro';
+    font-size: 18pt;
+}
+.cuoi button{
+    margin-left: 36px;
+    margin-top: 50px;
+    height: 50px;
+    width: 185px;
+    background-color: #f96d64;
+    border-radius: 5px;
+    border: 1px solid #f96d64;
+    font-size: 15px;
+    color: white;
+}
+.tronden, .trai , .phai, .phaitron{
+    position: absolute;
+}
+.tronden{
+    margin-top: 66px;
+    margin-left: 12px;
+}
+.trai{
+    margin-top: 83px;
+    margin-left: 31px;
+}
+.phaitron{
+    margin-left: 192px;
+    margin-top: 66px;
+}
+.phai{
+    margin-top: 83px;
+    margin-left: 211px;
+}
+.phai:hover , .trai:hover, .phaitron:hover, .tronden:hover{
+    cursor: pointer;
+}
+.cuoi button:hover{
+    cursor: pointer;
+    
+}
